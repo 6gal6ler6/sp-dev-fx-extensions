@@ -19,6 +19,7 @@ import * as SPTermStore from './services/SPTermStoreService';
 import pnp from "sp-pnp-js";
 
 import styles from './AppCustomizer.module.scss';
+
 import * as strings from 'TenantGlobalNavBarApplicationCustomizerStrings';
 
 const LOG_SOURCE: string = 'TenantGlobalNavBarApplicationCustomizer';
